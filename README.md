@@ -2,4 +2,4 @@
 
 Personal repository for Udacity's Natural Language Processing Nanodegree
 
-DataSet: https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
+You can download the dataset [here](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
